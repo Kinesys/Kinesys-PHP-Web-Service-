@@ -1,2 +1,2 @@
-# Kinesys-PHP-Web-Service-
+# Kinesys-PHP-Web-Service
 Practice Practice Practice!!!
